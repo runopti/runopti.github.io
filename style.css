@@ -1,0 +1,62 @@
+H1,H2,H3,H4{color: navy;}
+A:link{color: #CD0000;}
+A:visited{color: #330099;}
+A:active{color: #FF3300;}
+
+DD{margin-bottom:5px;}
+img#me{
+  float:right;
+}
+body{
+/*			background-image: url(border.png); */
+  margin-left:35px;
+  background-repeat: repeat;
+  background-color:white;color:black;
+  font-family: optima, sans-serif;
+  text-rendering: optimizeLegibility;
+}
+.phys{font-size:small; color:#00cc66}
+.badge{
+  margin:10px;
+  margin-top:10px;
+  padding-top:10px;
+}
+.date{
+  text-align:left;
+  font-weight: bold;
+  background-color:  #EEEEEE;
+}
+.with{
+  padding-top:10px;
+  text-align:left;
+  font-weight: normal;
+}
+.comment{
+  border-left: medium solid #AAAAAA;
+  padding-left: 10px;
+}
+    dt{
+        background-color: #EEEEEE;
+        font-weight:bold;
+        padding-top:3pt;
+        padding-bottom:3pt;
+        margin-top:3pt;
+        margin-bottom:3pt;
+    }
+table{
+  border-collapse:collapse;
+}
+.odd{
+  background-color: #EEEEEE;
+}
+.foo{
+  text-align:right;
+}
+td{
+  padding-right:5pt;
+  padding-left:5pt;
+}
+li{
+  margin-top:5pt;
+  margin-bottom:5pt;
+}

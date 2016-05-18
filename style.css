@@ -12,7 +12,7 @@ body{
   margin-left:35px;
   background-repeat: repeat;
   background-color:white;color:black;
-  font-family: myriad, optima, sans-serif;
+  font-family: helvetica, optima, sans-serif;
   text-rendering: optimizeLegibility;
 }
 .phys{font-size:small; color:#00449e} /*#00cc66*/

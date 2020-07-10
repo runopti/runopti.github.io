@@ -1,6 +1,11 @@
-theme: jekyll-theme-cayman
 title: Feature Selection using Stochastic Gates
 description: Python/R library for feature selection in neural nets 
+
+plugins: 
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/cayman
+
 
 exclude:
   - Gemfile

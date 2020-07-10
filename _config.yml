@@ -1,4 +1,4 @@
-theme: pages-themes/cayman #jekyll-theme-minimal
+theme: jekyll-theme-minimal
 title: Yutaro Yamada
 description: Ph.D. student in Statistics and Data Science at Yale University
 logo: /assets/img/self.jpg
